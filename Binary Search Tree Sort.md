@@ -8,7 +8,7 @@
 ```
 1. [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] -> Binary Search Tree
 
-2. root [6] seçtik.
+2. root 6
 
 3.	 		       6
 			     /   \
